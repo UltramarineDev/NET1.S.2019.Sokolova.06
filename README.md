@@ -1,4 +1,5 @@
-Tasks (deadline - 04.04.2019 24.00)
+## Tasks (deadline - 04.04.2019 24.00)
 
-1. Отрефакторить решение с нахождением наибольшего общего делителя Task 3. - done for two int (<a href="https://github.com/UltramarineDev/NET.S.2019.Sokolova.03">See in Day 3 (GCDNew.cs)</a>)
-2. Продемонстрировать работу с разработанными методами в ASP.NET MVC приложении. - done for 2 values
+:heavy_check_mark: 1. РћС‚СЂРµС„Р°РєС‚РѕСЂРёС‚СЊ СЂРµС€РµРЅРёРµ СЃ РЅР°С…РѕР¶РґРµРЅРёРµРј РЅР°РёР±РѕР»СЊС€РµРіРѕ РѕР±С‰РµРіРѕ РґРµР»РёС‚РµР»СЏ Task 3.<br/> 
+go to [Day 3](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.03/blob/master/NumbersManipulations/GCDNew.cs)<br/><br/>
+:heavy_check_mark: 2. РџСЂРѕРґРµРјРѕРЅСЃС‚СЂРёСЂРѕРІР°С‚СЊ СЂР°Р±РѕС‚Сѓ СЃ СЂР°Р·СЂР°Р±РѕС‚Р°РЅРЅС‹РјРё РјРµС‚РѕРґР°РјРё РІ ASP.NET MVC РїСЂРёР»РѕР¶РµРЅРёРё.
